@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Reactify-dashboard/static/css/main.f5240ba6.css",
+    "main.js": "/Reactify-dashboard/static/js/main.afa3c8df.js",
+    "static/js/27.fe12fe8d.chunk.js": "/Reactify-dashboard/static/js/27.fe12fe8d.chunk.js",
+    "static/media/product4.jpg": "/Reactify-dashboard/static/media/product4.767417bea17688d6d8ce.jpg",
+    "static/media/product2.jpg": "/Reactify-dashboard/static/media/product2.e93f12ec1b20980a1bd1.jpg",
+    "static/media/product1.jpg": "/Reactify-dashboard/static/media/product1.b8efc7a24c281ed8911b.jpg",
+    "static/media/calloperator.png": "/Reactify-dashboard/static/media/calloperator.45a364e4380aa79fe6ec.png",
+    "static/media/product3.jpg": "/Reactify-dashboard/static/media/product3.be6bce80c539b3222473.jpg",
+    "static/media/avatar3.png": "/Reactify-dashboard/static/media/avatar3.013c6cf3e081328c4626.png",
+    "static/media/product8.jpg": "/Reactify-dashboard/static/media/product8.323ebcbe88240bd8423f.jpg",
+    "static/media/avatar2.jpg": "/Reactify-dashboard/static/media/avatar2.40d668f58c650e364281.jpg",
+    "static/media/product7.jpg": "/Reactify-dashboard/static/media/product7.69341801e3f5245c8020.jpg",
+    "static/media/product6.jpg": "/Reactify-dashboard/static/media/product6.3260a3b510aa12fc136b.jpg",
+    "static/media/avatar4.jpg": "/Reactify-dashboard/static/media/avatar4.f56b774f77caaf2f6921.jpg",
+    "static/media/product5.jpg": "/Reactify-dashboard/static/media/product5.f4c5d8f991b753ca0fcc.jpg",
+    "static/media/logo.svg": "/Reactify-dashboard/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Reactify-dashboard/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.f5240ba6.css",
+    "static/js/main.afa3c8df.js"
+  ]
+}
